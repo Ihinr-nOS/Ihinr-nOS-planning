@@ -4,9 +4,9 @@ This repository provides a transparent view of the features and enhancements tha
 
 ## 📌 Introduction to the Roadmap  
 
-🔗 **View the [Oniro Planning Roadmap](https://github.com/orgs/eclipse-oniro4openharmony/projects/1)**  
+🔗 **View the [PureHarmony Planning Roadmap](https://github.com/orgs/eclipse-oniro4openharmony/projects/1)**  
 
-This roadmap outlines the key tasks, features, and improvements being tracked for Oniro. The status of each task is categorized as follows:  
+This roadmap outlines the key tasks, features, and improvements being tracked for PureHarmony. The status of each task is categorized as follows:  
 
 - **Todo**: Open tasks that are planned but have not yet been started.  
 - **In Progress**: Tasks that are actively being worked on.  
