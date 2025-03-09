@@ -1,6 +1,6 @@
-# Oniro Planning Roadmap  
+# PureHarmony Planning Roadmap  
 
-This repository provides a transparent view of the features and enhancements that are currently being developed or planned for the future in the [Oniro Project](https://oniroproject.org/). Its purpose is to foster open communication and collaboration within the community.  
+This repository provides a transparent view of the features and enhancements that are currently being developed or planned for the future in the PureHarmony project. Its purpose is to foster open communication and collaboration within the community.  
 
 ## 📌 Introduction to the Roadmap  
 
