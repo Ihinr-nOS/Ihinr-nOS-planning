@@ -18,6 +18,6 @@ Feature details will be updated as their development progresses. The roadmap is 
 
 We encourage community participation and feedback! If you have suggestions, questions, or ideas for new features, please reach out through:  
 
-📢 **([https://github.com/eclipse-oniro4openharmony/oniro-planning/discussions)[PureHarmony Discussions]**  
+📢 **[PureHarmony Discussions]([https://github.com/eclipse-oniro4openharmony/oniro-planning/discussions)**  
 
 Your input helps shape the future of Oniro. Thank you for being part of the community! 🚀
