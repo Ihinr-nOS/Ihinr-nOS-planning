@@ -4,7 +4,7 @@ This repository provides a transparent view of the features and enhancements tha
 
 ## 📌 Introduction to the Roadmap  
 
-🔗 **View the ([https://github.com/orgs/eclipse-oniro4openharmony/projects/1)][PureHarmony Planning Roadmap]**  
+🔗 **View the ([https://github.com/orgs/eclipse-oniro4openharmony/projects/1)[PureHarmony Planning Roadmap]**  
 
 This roadmap outlines the key tasks, features, and improvements being tracked for PureHarmony. The status of each task is categorized as follows:  
 
@@ -18,6 +18,6 @@ Feature details will be updated as their development progresses. The roadmap is 
 
 We encourage community participation and feedback! If you have suggestions, questions, or ideas for new features, please reach out through:  
 
-📢 **([https://github.com/eclipse-oniro4openharmony/oniro-planning/discussions)][PureHarmony Discussions]**  
+📢 **([https://github.com/eclipse-oniro4openharmony/oniro-planning/discussions)[PureHarmony Discussions]**  
 
 Your input helps shape the future of Oniro. Thank you for being part of the community! 🚀
