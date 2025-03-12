@@ -1,12 +1,12 @@
-# PureHarmony Planning Roadmap  
+# IhinrẹnOS Planning Roadmap  
 
-This repository provides a transparent view of the features and enhancements that are currently being developed or planned for the future in the PureHarmony project. Its purpose is to foster open communication and collaboration within the community.  
+This repository provides a transparent view of the features and enhancements that are currently being developed or planned for the future in the IhinrẹnOS project. Its purpose is to foster open communication and collaboration within the community.  
 
 ## 📌 Introduction to the Roadmap  
 
 🔗 **View the [PureHarmony Planning Roadmap](https://github.com/orgs/PureHarmonyProject/projects/1)**  
 
-This roadmap outlines the key tasks, features, and improvements being tracked for PureHarmony. The status of each task is categorized as follows:  
+This roadmap outlines the key tasks, features, and improvements being tracked for IhinrẹnOS. The status of each task is categorized as follows:  
 
 - **Todo**: Open tasks that are planned but have not yet been started.  
 - **In Progress**: Tasks that are actively being worked on.  
